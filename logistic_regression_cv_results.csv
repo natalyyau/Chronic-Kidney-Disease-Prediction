@@ -1,0 +1,6 @@
+Model,Metric,Mean,Standard deviation
+Logistic Regression,accuracy,0.990625,0.012499999999999999
+Logistic Regression,precision,1.0,0.0
+Logistic Regression,recall,0.985,0.020000000000000018
+Logistic Regression,f1,0.9923401493021746,0.010240374647573214
+Logistic Regression,roc_auc,0.9997916666666666,0.000416666666666643
